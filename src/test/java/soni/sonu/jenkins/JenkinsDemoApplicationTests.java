@@ -15,7 +15,7 @@ class JenkinsDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		LOGGER.info("Test Case Executed");
-		LOGGER.info("Test Case Executed- 2nd Log")d;
+		LOGGER.info("Test Case Executed- 2nd Log");
 
 		assertEquals(true, true);
 	}
